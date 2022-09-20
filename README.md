@@ -1,4 +1,4 @@
-# JavaScript and Python developer.
+# JavaScript and Python Developer
 - My interests in web development lie in the back end, but I do have experience with React. I'm also interested in software development.
 - Programming is fascinating to me because of the problem solving process it implements. There is great power in the idea of dividing a big problem into small chunks and putting those small chunks together to solve the problem.
 

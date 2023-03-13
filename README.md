@@ -1,4 +1,4 @@
-# JavaScript and Python Developer
+# Full-Stack Web Developer
 - My interests in web development lie in the back end, but I do have experience with React. I'm also interested in software development.
 - Programming is fascinating to me because of its problem-solving process; there is great power in the idea of dividing a big problem into many smaller problems, solving those smaller problems, and putting those solutions together to solve the big problem.
 - Some of my interests outside of programming include languages and linguistics, traveling, hiking, soccer, and chess. I've learned to speak Spanish as a second language.

@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/108340538/226959614-f8e338c9-ade2-48e6-9984-55e448ed7151.png)
 # Full-Stack Web Developer
 - My interests in web development lie in the back end, but I do have experience with React. I'm also interested in software development.
 - Programming is fascinating to me because of its problem-solving process; there is great power in the idea of dividing a big problem into many smaller problems, solving those smaller problems, and putting those solutions together to solve the big problem.

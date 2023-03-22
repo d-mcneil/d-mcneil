@@ -1,5 +1,6 @@
 ![image](https://user-images.githubusercontent.com/108340538/226963435-1748c406-6e9f-4f2f-8c1e-b0fb78ad3477.png)
-# Full-Stack Web Developer
+
+<h1 align="center">Full-Stack Web Developer</h1>
 - My interests in web development lie in the back end, but I do have experience with React. I'm also interested in software development.
 - Programming is fascinating to me because of its problem-solving process; there is great power in the idea of dividing a big problem into many smaller problems, solving those smaller problems, and putting those solutions together to solve the big problem.
 - Some of my interests outside of programming include languages and linguistics, traveling, hiking, soccer, and chess. I've learned to speak Spanish as a second language.

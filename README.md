@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/108340538/226963435-1748c406-6e9f-4f2f-8c1e-b0fb78ad3477.png)
 
-<h1 align="center" style="color: #56c8ea;">Full-Stack Web Developer</h1>
+<h1 align="center">Full-Stack Web Developer</h1>
 
 My interests in web development lie in the back end, but I do have experience with React. I'm also interested in software development.
 

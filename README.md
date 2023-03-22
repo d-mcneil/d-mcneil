@@ -2,7 +2,7 @@
 
 <h1 align="center">Full-Stack Web Developer</h1>
 
-- My interests in web development lie in the back end, but I do have experience with React. I'm also interested in software development.
+- I am a full-stack JavaScript developer with experience in **React**, **Redux**, **Express**, and **PostgreSQL**.
 
 - There is great power in the idea of diving a big problem into smaller problems, solving those problems, and then putting the solutions together to solve the big problem. Programming harnesses this power, and that is why it is so fascinating to me.
 

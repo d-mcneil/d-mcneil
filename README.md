@@ -4,7 +4,7 @@
 
 - I am a _**JavaScript**_ developer with experience in _**React**_, _**Redux**_, _**Express**_, and _**PostgreSQL**_.
 
-- There is great power in the idea of diving a big problem into smaller problems, solving those problems, and then putting the solutions together to solve the big problem. Programming harnesses this power, and that is why it is so fascinating to me.
+- There is great power in the idea of dividing a big problem into smaller problems, solving those problems, and then putting the solutions together to solve the big problem. Programming harnesses this power, and that is why it is so fascinating to me.
 
 
 - Some of my interests outside of programming include linguistics, traveling, hiking, soccer, and chess. I also really enjoy Spanish and have learned to  speak it as a second language.

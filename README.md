@@ -2,13 +2,12 @@
 
 <h1 align="center">Full-Stack Web Developer</h1>
 
-• My interests in web development lie in the back end, but I do have experience with React. I'm also interested in software development.
+- My interests in web development lie in the back end, but I do have experience with React. I'm also interested in software development.
 
-• There is great power in the idea of diving a big problem into smaller problems, solving those problems, and then putting the solutions together to solve the big problem. Programming harnesses this power, and that is why it is so fascinating to me.
+- There is great power in the idea of diving a big problem into smaller problems, solving those problems, and then putting the solutions together to solve the big problem. Programming harnesses this power, and that is why it is so fascinating to me.
 
 
-
-• Some of my interests outside of programming include linguistics, traveling, hiking, soccer, and chess. I also really enjoy Spanish and have learned to  speak it as a second language.
+- Some of my interests outside of programming include linguistics, traveling, hiking, soccer, and chess. I also really enjoy Spanish and have learned to  speak it as a second language.
 
 <!---
 - I have many interests outside of programming. 

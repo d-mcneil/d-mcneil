@@ -2,7 +2,7 @@
 
 <h1 align="center">Full-Stack Web Developer</h1>
 
-<h1 align="justify">Seeking a challenging work environment where I can continue to grow my skill set while contributing positively to team success.</h1>
+<p align="justify">Seeking a challenging work environment where I can continue to grow my skill set while contributing positively to team success.</p>
 
 - _**JavaScript**_ developer with experience in _**React**_, _**Redux**_, _**Express**_, and _**PostgreSQL**_
 

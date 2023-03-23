@@ -2,7 +2,7 @@
 
 <h1 align="center">Full-Stack Web Developer</h1>
 
-- **JavaScript** developer with experience in _**React**_, _**Redux**_, _**Express**_, and _**PostgreSQL**_.
+- JavaScript developer with experience in _**React**_, _**Redux**_, _**Express**_, and _**PostgreSQL**_.
 
 - There is great power in the idea of dividing a big problem into smaller problems, solving those problems, and then putting the solutions together to solve the big problem. Programming harnesses this power, and that is why it is so fascinating to me.
 

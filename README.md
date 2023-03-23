@@ -4,7 +4,7 @@
 
 _<p align="justify">Seeking a challenging work environment where I can continue to grow my skill set while contributing positively to team success.</p>_
 
-- _**JavaScript**_ developer with experience in _**React**_, _**Redux**_, _**Express**_, and _**PostgreSQL**_
+- JavaScript developer with experience in _**React**_, _**Redux**_, _**Express**_, and _**PostgreSQL**_
 
 - Interested in both web developement and software development, and I also have experience with _**Python**_.
 

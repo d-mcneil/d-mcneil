@@ -1,11 +1,9 @@
 ![image](https://user-images.githubusercontent.com/108340538/226963435-1748c406-6e9f-4f2f-8c1e-b0fb78ad3477.png)
 
 <h1 align="center">Full-Stack Web Developer</h1>
-<hr>
 
 <p align="justify">Seeking a challenging work environment where I can continue to grow my skill set while contributing positively to team success.</p>
-
-<hr>
+<br>
 
 - _**JavaScript**_ developer with experience in _**React**_, _**Redux**_, _**Express**_, and _**PostgreSQL**_
 

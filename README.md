@@ -6,9 +6,9 @@
 
 - I am interested in both web developement and software development, and I also have experience with _**Python**_.
 
-- There's great power in the idea of dividing a big problem into smaller problems, solving those problems, and then putting the solutions together to solve the big problem. Programming harnesses this power, and that's why it's so fascinating to me.
-
 - Some of my interests outside of programming include linguistics, traveling, hiking, soccer, and chess. I also really enjoy Spanish and have learned to speak it as a second language.
+
+- _There's great power in the idea of dividing a big problem into smaller problems, solving those problems, and then putting the solutions together to solve the big problem. Programming harnesses this power, and that's why it's so fascinating to me_.
 
 <!---
 - I have many interests outside of programming. 

@@ -3,7 +3,6 @@
 <h1 align="center">Full-Stack Web Developer</h1>
 
 <p align="justify">Seeking a challenging work environment where I can continue to grow my skill set while contributing positively to team success.</p>
-<br>
 
 - _**JavaScript**_ developer with experience in _**React**_, _**Redux**_, _**Express**_, and _**PostgreSQL**_
 
@@ -11,9 +10,11 @@
 
 - Some of my interests outside of programming include linguistics, traveling, hiking, soccer, and chess. I also really enjoy Spanish and have learned to speak it as a second language.
 
+<!---
+
 - _There is great power in the idea of dividing a big problem into smaller problems, solving those problems, and then putting the solutions together to solve the big problem. Programming harnesses this power, and that's why it's so fascinating to me_.
 
-<!---
+
 - I have many interests outside of programming. 
   - I'm passionate about languages and linguistics. I've learned to speak Spanish as a second language. I studied a fair bit of German, and I've also dabbled in French, Portuguese, Italian, Swedish, and Quechua. I'm fascinated by the complexity of languages, their idiosyncracies, and how they interact with each other.
   - I'm also passionate about traveling. There are many lessons to be learned from spending time immersed in another culture. I've traveled across the United States, only missing the Northeast, Alaska, and Hawaii. I've spent time in Italy, Canada, Chile, Peru, Argentina, Brazil, Colombia, Costa Rica, Guatemala, and Mexico.

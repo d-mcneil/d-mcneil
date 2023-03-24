@@ -6,7 +6,7 @@ _<p align="justify">Seeking a challenging work environment where I can continue 
 
 - JavaScript developer with experience in _**React**_, _**Redux**_, _**Express**_, and _**PostgreSQL**_
 
-- Interested in both web developement and software development, and I also have experience with _**Python**_.
+- I'm interested in both web development and software development, and I also have experience with _**Python**_.
 
 - Some of my interests outside of programming include linguistics, traveling, hiking, soccer, and chess. I also really enjoy Spanish and have learned to speak it as a second language.
 

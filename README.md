@@ -6,11 +6,13 @@ _<p align="justify">Seeking a challenging work environment where I can continue 
 
 - JavaScript developer with experience in _**React**_, _**Redux**_, _**Express**_, and _**PostgreSQL**_
 
-- I'm interested in both web development and software development, and I also have experience with _**Python**_.
+- I've also worked with _**Python**_ and have a bit of experience with _**C**_.
 
-- Some of my interests outside of programming include linguistics, traveling, hiking, soccer, and chess. I also really enjoy Spanish and have learned to speak it as a second language.
+- Some of my interests outside of programming include linguistics, traveling, hiking, soccer, Pokémon, and chess. I also really enjoy Spanish and have learned to speak it as a second language.
 
 <!---
+
+- I'm interested in both web development and software development, and I also have experience with _**Python**_.
 
 - _There is great power in the idea of dividing a big problem into smaller problems, solving those problems, and then putting the solutions together to solve the big problem. Programming harnesses this power, and that's why it's so fascinating to me_.
 

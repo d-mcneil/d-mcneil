@@ -2,13 +2,13 @@
 
 <h1 align="center">Full-Stack Software Developer</h1>
 
-_<p align="justify">Seeking a challenging work environment where I can continue to grow my skill set while contributing positively to team success.</p>_
+“Imagine who you could be, and then aim single-mindedly at that.” 
 
-- JavaScript developer with experience in _**React**_, _**Redux**_, _**Express**_, and _**PostgreSQL**_
+After reading Jordan Peterson’s closing remark in the second chapter of his book, Beyond Order, I turned off my Kindle and thought about the direction I was headed. I had been drifting: serving in restaurants, considered being a translator, a linguist—I even tried out the nomadic lifestyle, traveling and teaching English. These paths, however, were either not satisfying or didn’t have a strong job market outlook. Luckily for me, three developers in my life saw potential for me to succeed at and enjoy programming. They all told me to give it a try, and upon completing my very first Python course on YouTube, I knew I had found my target to aim at.
 
-- I've also worked with _**Python**_ and have a bit of experience with _**C**_.
+While I’m moving away from education and restaurant service, I certainly do not regret my time in either. Teaching (and learning about teaching) has led me to become more adept at connecting new ideas to previous knowledge, which is paramount for internalizing unfamiliar concepts. As a server, I learned to anticipate customer needs and became a more proactive person—an element of growth that I attribute to my careful attention to detail and drive for consistent improvement.
 
-- Some of my interests outside of programming include linguistics, traveling, hiking, soccer, Pokémon, and chess. I also really enjoy Spanish and have learned to speak it as a second language.
+As I transition into the world of software development, I am confident that my enthusiasm for solving logical problems, my disposition toward growth, detail, and efficiency, and lessons learned from previous experience will all propel me to reach my target of becoming an expert programmer. But, I recognize that I have much to learn, and I’m willing to put in the effort. Check out my portfolio website to see some of my work, or connect with me and let’s start a conversation!
 
 <!---
 

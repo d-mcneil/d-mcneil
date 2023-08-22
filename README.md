@@ -8,7 +8,7 @@ After reading Jordan Peterson’s closing remark in the second chapter of his bo
 
 While I’m moving away from education and restaurant service, I certainly do not regret my time in either. Teaching (and learning about teaching) has led me to become more adept at connecting new ideas to previous knowledge, which is paramount for internalizing unfamiliar concepts. As a server, I learned to anticipate customer needs and became a more proactive person—an element of growth that I attribute to my careful attention to detail and drive for consistent improvement.
 
-As I transition into the world of software development, I am confident that my enthusiasm for solving logical problems, my disposition toward growth, detail, and efficiency, and lessons learned from previous experience will all propel me to reach my target of becoming an expert programmer. But, I recognize that I have much to learn, and I’m willing to put in the effort. Check out my portfolio website to see some of my work, or connect with me and let’s start a conversation!
+As I transition into the world of software development, I am confident that my enthusiasm for solving logical problems, my disposition toward growth, detail, and efficiency, and lessons learned from previous experience will all propel me to reach my target of becoming an expert programmer. But, I recognize that I have much to learn, and I’m willing to put in the effort. Check out my [portfolio](https://d-mcneil.github.io/) to see some of my work, or connect with me on [LinkedIn](https://www.linkedin.com/in/d-mcneil/) and let’s start a conversation!
 
 <!---
 

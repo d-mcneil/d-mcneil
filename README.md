@@ -2,13 +2,7 @@
 
 <h1 align="center">Full-Stack Software Developer</h1>
 
-“Imagine who you could be, and then aim single-mindedly at that.” 
-
-After reading Jordan Peterson’s closing remark in the second chapter of his book, Beyond Order, I turned off my Kindle and thought about the direction I was headed. I had been drifting: serving in restaurants, considered being a translator, a linguist—I even tried out the nomadic lifestyle, traveling and teaching English. These paths, however, were either not satisfying or didn’t have a strong job market outlook. Luckily for me, three developers in my life saw potential for me to succeed at and enjoy programming. They all told me to give it a try, and upon completing my very first Python course on YouTube, I knew I had found my target to aim at.
-
-While I’m moving away from education and restaurant service, I certainly do not regret my time in either. Teaching (and learning about teaching) has led me to become more adept at connecting new ideas to previous knowledge, which is paramount for internalizing unfamiliar concepts. As a server, I learned to anticipate customer needs and became a more proactive person—an element of growth that I attribute to my careful attention to detail and drive for consistent improvement.
-
-As I transition into the world of software development, I am confident that my enthusiasm for solving logical problems, my disposition toward growth, detail, and efficiency, and lessons learned from previous experience will all propel me to reach my target of becoming an expert programmer. But, I recognize that I have much to learn, and I’m willing to put in the effort. Check out my [portfolio](https://d-mcneil.github.io/) to see some of my work live, or connect with me on [LinkedIn](https://www.linkedin.com/in/d-mcneil/) and let’s start a conversation!
+Full-stack developer with experience in both front-end and back-end development within Agile environments. Skilled at implementing component-based frameworks, particularly React, and proficient in both functional and object-oriented programming. Strong focus on detail, maintainability, best practices, and minimizing technical debt. Experienced with cloud computing and data engineering pipelines, and dedicated to delivering high-quality, scalable solutions
 
 <!---
 
